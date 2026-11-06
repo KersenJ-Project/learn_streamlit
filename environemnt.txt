@@ -4,7 +4,4 @@ uv pip install -r requirements.txt
 
 uv add pandas numpy streamlit
 
-python -m streamlit name_file
-streamlit run name_file
-
 uv run streamlit run app.py
